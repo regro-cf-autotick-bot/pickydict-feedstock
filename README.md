@@ -5,7 +5,7 @@ Home: https://github.com/florian-huber/pickydict
 
 Package license: MIT
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pickydict-feedstock/blob/master/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pickydict-feedstock/blob/main/LICENSE.txt)
 
 Summary: More picky version of Python dictionary.
 PickyDict objects will behave just like Python dictionaries, with a few notable exceptions.
@@ -19,8 +19,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=15543&branchName=master">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pickydict-feedstock?branchName=master">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=15543&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/pickydict-feedstock?branchName=main">
       </a>
     </td>
   </tr>
