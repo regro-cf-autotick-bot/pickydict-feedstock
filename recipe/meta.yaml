@@ -1,5 +1,5 @@
 {% set name = "pickydict" %}
-{% set version = "0.3.0" %}
+{% set version = "0.4.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pickydict-{{ version }}.tar.gz
-  sha256: cbedd08bc7bf7a4ee2e6ace5bd6aa86501be947bcced778be981beebd35d9c9f
+  sha256: 2a3cd92d3f21c9f4591c1df95a312cae5f9243ba133ff258b1eb91c46b3df40b
 
 build:
   noarch: python
